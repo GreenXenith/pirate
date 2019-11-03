@@ -12,6 +12,7 @@ I may redo some later.
 TODO:
 * Boots
 * Compass
-* Other things?  
+* Other things?
+* Rum  
 
 NOTE: Wearable attachments might appear lagged behind in 5.1.0, this is fixed in later Minetest versions.  
